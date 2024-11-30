@@ -15,7 +15,6 @@ This repository contains a straightforward command-line Blackjack game implement
 - [Technologies Used](#technologies-used)  
 - [Future Improvements](#future-improvements)  
 - [Contributing](#contributing)  
-- [License](#license)  
 
 ---
 
