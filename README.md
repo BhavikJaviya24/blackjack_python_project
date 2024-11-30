@@ -1,9 +1,6 @@
-# blackjack_python_project
-Here's a tailored **README.md** for your provided Python blackjack script:
+# blackjack_python_project 🃏
 
 ---
-
-# Simple Blackjack Game 🃏
 
 This repository contains a straightforward command-line Blackjack game implemented in Python. Test your luck and skill against a computer dealer!
 
